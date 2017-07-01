@@ -1,15 +1,15 @@
 # Site navigation links
-title: Home
+- title: Home
   url: /
 
-title: Resume
+- title: Resume
   url: /resume/
   
-title: Publications
+- title: Publications
   url: /publications/
   
-title: Presentations
+- title: Presentations
   url: /presentations/
 
-title: Blog
+- title: Blog
   url: /blog/
