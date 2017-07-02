@@ -5,7 +5,7 @@ title: Publications
 
 ## Journal articles
 
-Sirmatel, I. I., & Geroliminis, N., "<a href="https://sirmatel.github.io/assets/files/T-ITS-16-11-0782.R2.pdf" style="color: #2d5a8c; text-decoration:underline">Economic Model Predictive Control of Large-scale Urban Road Networks via Perimeter Control and Regional Route Guidance</a>", <i>IEEE Transactions on Intelligent Transportation Systems</i>.
+Sirmatel, I. I., & Geroliminis, N., "<a href="https://sirmatel.github.io/assets/files/7964750.pdf" style="color: #2d5a8c; text-decoration:underline">Economic Model Predictive Control of Large-scale Urban Road Networks via Perimeter Control and Regional Route Guidance</a>", <i>IEEE Transactions on Intelligent Transportation Systems</i>.
 
 ## Conference articles
 
