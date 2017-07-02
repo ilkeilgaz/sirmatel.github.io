@@ -19,7 +19,7 @@ Sirmatel, I. I., & Geroliminis, N., "<a href="https://trid.trb.org/view.aspx?id=
 
 Sirmatel, I. I., & Geroliminis, N., "<a href="https://trid.trb.org/view.aspx?id=1439090" style="color: #2d5a8c; text-decoration:underline">Hybrid modeling and predictive control of bus transport systems</a>", <i>96th Annual Meeting of the Transportation Research Board</i>, Washington, DC, 2017.
 
-Sirmatel, I. I., & Geroliminis, N., "<a href="http://ieeexplore.ieee.org/abstract/document/7799311/" style="color: #2d5a8c; text-decoration:underline">Model predictive control of large-scale urban networks via perimeter control and route guidance actuation</a>", <i>IEEE 55th Conference on Decision and Control</i>, Las Vegas, NV, 2016.
+Sirmatel, I. I., & Geroliminis, N., "<a href="https://sirmatel.github.io/assets/files/7799311.pdf" style="color: #2d5a8c; text-decoration:underline">Model predictive control of large-scale urban networks via perimeter control and route guidance actuation</a>", <i>IEEE 55th Conference on Decision and Control</i>, Las Vegas, NV, 2016.
 
 ## Theses
 
