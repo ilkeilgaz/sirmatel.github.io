@@ -45,7 +45,7 @@ owner:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:    redcarpet
 highlighter: rouge
 sass:
   sass_dir: _sass
