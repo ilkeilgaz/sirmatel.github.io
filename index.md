@@ -8,5 +8,6 @@ Işık İlber Sırmatel received the B.Sc. degrees in mechanical and control eng
 ## Current work:
 
 - Mixed logical dynamical modeling and hybrid model predictive control of bus transport systems
-- Nonlinear model predictive control of highway traffic via variable speed limits
+- Feedback control of highway traffic via variable speed limit actuation
 - Nonlinear moving horizon estimation for large-scale urban road networks
+- Hierarchical management of heterogeneous large-scale urban road networks via path assignment and regional route guidance
