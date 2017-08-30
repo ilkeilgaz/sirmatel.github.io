@@ -9,6 +9,8 @@ Sirmatel, I. I., & Geroliminis, N., "<a href="https://sirmatel.github.io/assets/
 
 ## Conference articles
 
+Yildirimoglu, M., Sirmatel, I. I., & Geroliminis, N., "<a href="https://trid.trb.org/view.aspx?id=1438872" style="color: #2d5a8c; text-decoration:underline">Hierarchical management of heterogeneous large-scale urban networks via path assignment and regional route guidance</a>", <i>97th Annual Meeting of the Transportation Research Board</i>, Washington, DC, 2018 (submitted).
+
 Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 20th International Conference on Intelligent Transportation Systems</i> (accepted), Yokohama, Japan, 2017.
 
 Sirmatel, I. I., & Geroliminis, N., "Dynamical Modeling and Predictive Control of Bus Transport Systems: A Hybrid Systems Approach", <i>20th World Congress of the International Federation of Automatic Control</i>, Toulouse, France, 2017.
