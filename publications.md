@@ -5,13 +5,13 @@ title: Publications
 
 ## Journal articles
 
-Sirmatel, I. I., & Geroliminis, N., "<a href="https://sirmatel.github.io/assets/files/EMPC_of_LSURNs_T_ITS2017.pdf" style="color: #2d5a8c; text-decoration:underline">Economic Model Predictive Control of Large-scale Urban Road Networks via Perimeter Control and Regional Route Guidance</a>", <i>IEEE Transactions on Intelligent Transportation Systems</i>.
+Sirmatel, I. I., & Geroliminis, N. (2017). <a href="https://sirmatel.github.io/assets/files/EMPC_of_LSURNs_T_ITS2017.pdf" style="color: #2d5a8c; text-decoration:underline">Economic Model Predictive Control of Large-Scale Urban Road Networks via Perimeter Control and Regional Route Guidance.</a> <i>IEEE Transactions on Intelligent Transportation Systems.</i>
 
 ## Conference articles
 
-Yildirimoglu, M., Sirmatel, I. I., & Geroliminis, N., "Hierarchical management of heterogeneous large-scale urban networks via path assignment and regional route guidance", <i>97th Annual Meeting of the Transportation Research Board</i>, Washington, DC, 2018 (submitted).
+Yildirimoglu, M., Sirmatel, I. I., & Geroliminis, N., "Hierarchical management of heterogeneous large-scale urban networks via path assignment and regional route guidance", <i>97th Annual Meeting of the Transportation Research Board</i>, Washington, DC, 2018 (accepted).
 
-Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 20th International Conference on Intelligent Transportation Systems</i> (accepted), Yokohama, Japan, 2017.
+Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 20th International Conference on Intelligent Transportation Systems</i>, Yokohama, Japan, 2017.
 
 Sirmatel, I. I., & Geroliminis, N., "Dynamical Modeling and Predictive Control of Bus Transport Systems: A Hybrid Systems Approach", <i>20th World Congress of the International Federation of Automatic Control</i>, Toulouse, France, 2017.
 
