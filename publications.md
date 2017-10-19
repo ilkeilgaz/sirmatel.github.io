@@ -13,7 +13,7 @@ Yildirimoglu, M., Sirmatel, I. I., & Geroliminis, N., "Hierarchical management o
 
 Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 20th International Conference on Intelligent Transportation Systems</i>, Yokohama, Japan, 2017.
 
-Sirmatel, I. I., & Geroliminis, N., "Dynamical Modeling and Predictive Control of Bus Transport Systems: A Hybrid Systems Approach", <i>20th World Congress of the International Federation of Automatic Control</i>, Toulouse, France, 2017.
+Sirmatel, I. I., & Geroliminis, N., "<a href="http://www.sciencedirect.com/science/article/pii/S2405896317315537" style="color: #2d5a8c; text-decoration:underline">Dynamical Modeling and Predictive Control of Bus Transport Systems: A Hybrid Systems Approach</a>", <i>20th World Congress of the International Federation of Automatic Control</i>, Toulouse, France, 2017.
 
 Sirmatel, I. I., & Geroliminis, N., "Nonlinear moving horizon estimation for large-scale urban networks", <i>International Conference on Intelligent Transport Systems in Theory and Practice</i>, Munich, Germany, 2017.
 
