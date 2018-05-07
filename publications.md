@@ -9,7 +9,7 @@ Sirmatel, I. I., & Geroliminis, N, "<a href="https://sirmatel.github.io/assets/f
 
 ## Conference articles
 
-Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 20th International Conference on Intelligent Transportation Systems</i>, Yokohama, Japan, 2017.
+Zhang, Y., Sirmatel, I. I., Alasiri, F., Ioannou, P., & Geroliminis, N., "Comparison of Feedback Linearization and Model Predictive Techniques for Variable Speed Limit Control", <i>IEEE 21st International Conference on Intelligent Transportation Systems</i>, Maui, Hawaii, USA, 2018.
 
 Sirmatel, I. I., & Geroliminis, N., "<a href="http://www.sciencedirect.com/science/article/pii/S2405896317315537" style="color: #2d5a8c; text-decoration:underline">Dynamical Modeling and Predictive Control of Bus Transport Systems: A Hybrid Systems Approach</a>", <i>20th World Congress of the International Federation of Automatic Control</i>, Toulouse, France, 2017.
 
